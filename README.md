@@ -1,3 +1,3 @@
 # njpw-downloader
 
-Simple downloader for NJPW world.
+Simple downloader for NJPW World.
